@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "acc_info": "",
+      "proxy_info": "http://user:pass@ip:port"
+    },
+    {
+      "acc_info": "",
+      "proxy_info": "http://user:pass@ip:port"
+    }
+  ]
+}
+
+ibbiafolm
